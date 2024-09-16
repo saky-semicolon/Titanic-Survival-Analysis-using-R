@@ -32,7 +32,7 @@ This repository is organized as follows:
    - Handle missing values in Age, Fare, and SibSp.
    - Convert categorical variables (Sex, Survived, etc.) into factors.
    - Summary statistics for numerical and categorical variables.
-   
+
 ### 2. **Exploratory Data Analysis (EDA)**
    - **Measures of Central Tendency**: Calculation of mean, median, and mode for Age, Fare, and SibSp for both survivors and non-survivors.
    - **Measures of Dispersion**: Calculation of variance and standard deviation for the above variables.
@@ -77,7 +77,10 @@ To run the analysis, follow these steps:
 4. Generate visualizations using the provided ggplot2 code.
 
 ## Project Report
-Find the detailed report on the analysis in the [Project Report](Project Report_Titanic Survival Analysis using R.pdf) file.
+Find the detailed report on the analysis in the [https://github.com/saky-semicolon/Titanic-Survival-Analysis-using-R/blob/master/Project%20Report_Titanic%20Survival%20Analysis%20usinng%20R.pdf](Project Report) file.
 
 ## Contributors
 1. S M Asiful Islam Saky
+
+# add a link here
+[link](
