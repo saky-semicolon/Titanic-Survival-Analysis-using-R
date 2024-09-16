@@ -77,10 +77,8 @@ To run the analysis, follow these steps:
 4. Generate visualizations using the provided ggplot2 code.
 
 ## Project Report
-Find the detailed report on the analysis in the [https://github.com/saky-semicolon/Titanic-Survival-Analysis-using-R/blob/master/Project%20Report_Titanic%20Survival%20Analysis%20usinng%20R.pdf](Project Report) file.
+Find the detailed report on the analysis in the <a href="https://github.com/saky-semicolon/Titanic-Survival-Analysis-using-R/blob/master/Project%20Report_Titanic%20Survival%20Analysis%20usinng%20R.pdf"> Project Report </a> file.
+
 
 ## Contributors
 1. S M Asiful Islam Saky
-
-# add a link here
-[link](
